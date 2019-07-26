@@ -1,0 +1,47 @@
+{
+  "schema": {
+    "rows": [
+      {
+        "columns": [
+          {
+            "elements": [
+              {
+                "id": "el1",
+                "type": "text",
+                "defaultValue": "default text"
+              }
+            ]
+          },
+          {
+            "elements": [
+              {
+                "id": "el3",
+                "type": "text",
+                "defaultValue": "el3 default"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "columns": [
+          {
+            "elements": [
+              {
+                "id": "el2",
+                "type": "number",
+                "defaultValue": "12"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "actions": [
+    {
+      "type": "submit",
+      "label": "Save"
+    }
+  ]
+}

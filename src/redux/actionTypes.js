@@ -1,0 +1,2 @@
+export const UPDATE_DATA = "UPDATE_DATA";
+export const LIVE_UPDATE_FIELD = "LIVE_UPDATE_FIELD";
