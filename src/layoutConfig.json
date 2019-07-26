@@ -11,15 +11,6 @@
                 "defaultValue": "default text"
               }
             ]
-          },
-          {
-            "elements": [
-              {
-                "id": "el3",
-                "type": "text",
-                "defaultValue": "el3 default"
-              }
-            ]
           }
         ]
       },
@@ -30,7 +21,7 @@
               {
                 "id": "el2",
                 "type": "number",
-                "defaultValue": "12"
+                "defaultValue": "default number"
               }
             ]
           }
